@@ -1,3 +1,5 @@
+# Playwright Notes with Docs
+
 ## Fake data generator 
 https://www.npmjs.com/package/@faker-js/faker
 
